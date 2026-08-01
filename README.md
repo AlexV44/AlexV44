@@ -6,15 +6,15 @@
 </p>
 
 <h1 align="center">
- Hi there, I'm Software Engineer <img src="https://raw.githubusercontent.com/MartinLopezz/MartinLopezz/main/wave.gif" width="35px" style="vertical-align: middle;" />
+ Hi there, I'm Alexei Vidilin <img src="https://raw.githubusercontent.com/MartinLopezz/MartinLopezz/main/wave.gif" width="35px" style="vertical-align: middle;" />
 </h1>
 
 <h3 align="center">
- Software Engineering Student & Developer | Java & C++ 
+ I'm a Software Engineering Student & Developer | Java
 </h3>
 
 <p align="center">
- Passionate about building scalable backend services, high-performance desktop applications, and trading software. Experienced in core Java architecture, C++ GUI tools, database optimization, and networking protocols.
+Specializing in the development of scalable, fault-tolerant, and high-performance enterprise systems using Java. Hands-on experience in designing RESTful web services, optimizing databases, and implementing complex algorithms. Proficient in modern development tools like Git, Maven, Docker, JUnit, CI/CD to ensure code quality and process automation.
 </p>
 
 ---
