@@ -1,12 +1,10 @@
-## Hi there 👋
-<!-- СОЦСЕТИ И КОНТАКТЫ -->
+
 <p align="center">
  <a href="https://t.me/ВАШ_ТЕЛЕГРАМ"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
  <a href="https://linkedin.com/in/ВАШ_ПРОФИЛЬ"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="https://leetcode.com/ВАШ_ПРОФИЛЬ"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
-<!-- ЗАГОЛОВОК С АНИМАЦИЕЙ -->
 <h1 align="center">
  Hi there, I'm Software Engineer <img src="https://raw.githubusercontent.com/MartinLopezz/MartinLopezz/main/wave.gif" width="35px" style="vertical-align: middle;" />
 </h1>
@@ -21,7 +19,6 @@
 
 ---
 
-<!-- СТАТИСТИКА ГИТХАБА -->
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_GITHUB_USERNAME&layout=donut&theme=default" alt="Top Languages" />
 </p>
