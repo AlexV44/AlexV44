@@ -1,16 +1,70 @@
 ## Hi there 👋
+<!-- СОЦСЕТИ И КОНТАКТЫ -->
+<p align="center">
+ <a href="https://t.me/ВАШ_ТЕЛЕГРАМ"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+ <a href="https://linkedin.com/in/ВАШ_ПРОФИЛЬ"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://leetcode.com/ВАШ_ПРОФИЛЬ"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
 
-<!--
-**AlexV44/AlexV44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ЗАГОЛОВОК С АНИМАЦИЕЙ -->
+<h1 align="center">
+ Hi there, I'm Software Engineer <img src="https://raw.githubusercontent.com/MartinLopezz/MartinLopezz/main/wave.gif" width="35px" style="vertical-align: middle;" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+ Software Engineering Student & Developer | Java & C++ 
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+ Passionate about building scalable backend services, high-performance desktop applications, and trading software. Experienced in core Java architecture, C++ GUI tools, database optimization, and networking protocols.
+</p>
+
+---
+
+<!-- СТАТИСТИКА ГИТХАБА -->
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_GITHUB_USERNAME&layout=donut&theme=default" alt="Top Languages" />
+</p>
+
+---
+
+## Technical Skills
+
+### Core Expertise (Advanced):
+* **Java Stack:** Core Java (8/11/17/21), Collections Framework, JVM Internals, Multithreading & Concurrency, Streams API, JDBC/JPA.
+* **C++ & Desktop:** Modern C++, Qt Framework, Dear ImGui, CMake build systems, OpenGL integrations.
+* **Backend & Databases:** PostgreSQL (Schema design, indexing, query optimization), RESTful API design.
+
+### Intermediate & Tools:
+* **Infrastructure & DevOps:** Docker, Docker Compose, Git, Maven, Linux (Ubuntu/Debian).
+* **Networking & Protocols:** TCP/IP Sockets, Wireshark packet analysis, Multi-threaded network applications.
+
+---
+
+## Featured Projects
+
+### Nexus Terminal
+* **Tech Stack:** `C++`, `Dear ImGui`, `CMake`, `OpenGL`
+* Custom high-performance desktop trading terminal interface designed for crypto traders, featuring modular docking windows and real-time layout management.
+
+### Multi-Player Network Tetris
+* **Tech Stack:** `Java / C++`, `TCP Sockets`, `Wireshark`
+* Network-based multiplayer game utilizing custom TCP socket protocols for low-latency game state synchronization and client-server communication.
+
+### ShapeEditor
+* **Tech Stack:** `C++`, `Qt Framework`
+* Graphical desktop editor for vector graphics and geometry manipulation with intuitive UI components.
+
+---
+
+## Technologies & Tools
+
+<p align="left">
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+ <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+ <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+ <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
