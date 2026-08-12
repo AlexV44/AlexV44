@@ -18,19 +18,46 @@ Specializing in the development of scalable, fault-tolerant, and high-performanc
 
 ---
 
-## Technical Skills
+## TECHNICAL SKILLS
 
-### Core Expertise (Advanced):
-* **Java Stack:** Core Java (8/11/17/21), Collections Framework, JVM Internals, Multithreading & Concurrency, Streams API, JDBC/JPA.
-* **Backend & Databases:** PostgreSQL (Schema design, indexing, query optimization), RESTful API design.
+### 🔴 Core Expertise (Advanced — 3+ years):
+* **Java (JDK 8/11/17)** — Collections, Lambda, Stream API, Concurrency, JDBC, JPA
+* **Spring Boot 2.x/3.x** — Architecture, best practices, production deployment
+* **Spring Data JPA & Hibernate** — Complex mappings, optimization, N+1 problem solutions
+* **PostgreSQL** — Schema design, indexing, query optimization, slow query analysis
+* **Docker & Docker Compose** — Production-ready images, multi-stage builds, local development
+* **REST API** — API design, HTTP methods, status codes, OpenAPI/Swagger
 
-### Intermediate & Tools:
-* **Infrastructure & DevOps:** Docker, Docker Compose, Git, Maven, Linux (Ubuntu/Debian).
-* **Networking & Protocols:** TCP/IP Sockets, Wireshark packet analysis, Multi-threaded network applications.
+### 🟡 Advanced Skills (Intermediate — 1-2 years):
+* **Redis** — Caching, TTL, caching strategies
+* **SQL & Query Optimization** — Indexing, EXPLAIN plans, optimization
+* **JUnit 5 & Mockito** — Unit testing, integration testing, mocking
+* **Testcontainers** — Integration testing with real databases and external services
+* **GitLab CI/CD** — Pipeline configuration, automated build and deployment
+* **Maven & Gradle** — Dependency management, build configuration
+* **Git / GitHub / GitLab** — Daily hands-on experience, feature branching, code review
 
----
+### 🟢 Foundational Skills (Beginner — For specific tasks):
+* **GraphQL** — Core concepts, basic queries
+* **RabbitMQ** — Message broker concepts
+* **Prometheus & Grafana** — Monitoring, metrics, dashboards
+* **Linux / Ubuntu** — Administration, shell scripting
+* **Python / Bash** — Automation, scripting, tooling
+* **Kubernetes (Basics)** — Pods, services, deployments
+* **Apache Kafka** — Producers/Consumers, consumer groups, DLQ, error handling, 1M+ events/day
 
-## Featured Projects
+### Architecture & Engineering Principles:
+* **Microservices Architecture** — System design, monolith decomposition, service-to-service communication
+* **Domain-Driven Design (DDD)** — Bounded contexts, aggregate roots, repository pattern
+* **Design Patterns** — Repository, Service, Factory, Singleton, Decorator, Strategy
+* **SOLID Principles** — Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
+
+### Methodologies & Practices:
+* **Agile / Scrum** — Sprints, planning, retrospectives, daily stand-ups
+* **Code Review** — Conducting reviews, incorporating feedback, best practices
+* **Pair Programming** — Collaborative development experience
+* **TDD** — Test-Driven Development, code coverage, quality assurance
+
 
 ## Technologies & Tools
 
@@ -41,3 +68,7 @@ Specializing in the development of scalable, fault-tolerant, and high-performanc
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+
+## Featured Projects
+
