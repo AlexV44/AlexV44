@@ -23,40 +23,40 @@ Specializing in the development of scalable, fault-tolerant, and high-performanc
 ### 🔴 Core Expertise (Advanced — 3+ years):
 * **Java (JDK 8/11/17)** — Collections, Lambda, Stream API, Concurrency, JDBC, JPA
 * **Spring Boot 2.x/3.x** — Architecture, best practices, production deployment
-* **Spring Data JPA & Hibernate** — Complex mappings, optimization, N+1 problem solutions
-* **PostgreSQL** — Schema design, indexing, query optimization, slow query analysis
-* **Docker & Docker Compose** — Production-ready images, multi-stage builds, local development
+* **Spring Data JPA & Hibernate** — complex mappings, optimization, N+1 problem solutions
+* **PostgreSQL** — schema design, indexing, query optimization, slow query analysis
+* **Docker & Docker Compose** — production-ready images, multi-stage builds, local development
 * **REST API** — API design, HTTP methods, status codes, OpenAPI/Swagger
 
 ### 🟡 Advanced Skills (Intermediate — 1-2 years):
-* **Redis** — Caching, TTL, caching strategies
-* **SQL & Query Optimization** — Indexing, EXPLAIN plans, optimization
+* **Redis** — caching, TTL, caching strategies
+* **SQL & Query Optimization** — indexing, optimization
 * **JUnit 5 & Mockito** — Unit testing, integration testing, mocking
-* **Testcontainers** — Integration testing with real databases and external services
-* **GitLab CI/CD** — Pipeline configuration, automated build and deployment
-* **Maven & Gradle** — Dependency management, build configuration
-* **Git / GitHub / GitLab** — Daily hands-on experience, feature branching, code review
+* **Testcontainers** — integration testing with real databases and external services
+* **GitLab CI/CD** — pipeline configuration, automated build and deployment
+* **Maven & Gradle** — dependency management, build configuration
+* **Git / GitHub / GitLab** — daily hands-on experience, feature branching, code review
 
 ### 🟢 Foundational Skills (Beginner — For specific tasks):
-* **GraphQL** — Core concepts, basic queries
-* **RabbitMQ** — Message broker concepts
-* **Prometheus & Grafana** — Monitoring, metrics, dashboards
-* **Linux / Ubuntu** — Administration, shell scripting
-* **Python / Bash** — Automation, scripting, tooling
-* **Kubernetes (Basics)** — Pods, services, deployments
-* **Apache Kafka** — Producers/Consumers, consumer groups, DLQ, error handling, 1M+ events/day
+* **GraphQL** — core concepts, basic queries
+* **RabbitMQ** — message broker concepts
+* **Prometheus & Grafana** — monitoring, metrics, dashboards
+* **Linux / Ubuntu** — administration, shell scripting
+* **Python / Bash** — automation, scripting, tooling
+* **Kubernetes (Basics)** — pods, services, deployments
+* **Apache Kafka** — producers/consumers, consumer groups, DLQ, error handling, 1M+ events/day
 
 ### Architecture & Engineering Principles:
-* **Microservices Architecture** — System design, monolith decomposition, service-to-service communication
-* **Domain-Driven Design (DDD)** — Bounded contexts, aggregate roots, repository pattern
+* **Microservices Architecture** — system design, monolith decomposition, service-to-service communication
+* **Domain-Driven Design (DDD)** — bounded contexts, aggregate roots, repository pattern
 * **Design Patterns** — Repository, Service, Factory, Singleton, Decorator, Strategy
 * **SOLID Principles** — Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
 
 ### Methodologies & Practices:
-* **Agile / Scrum** — Sprints, planning, retrospectives, daily stand-ups
-* **Code Review** — Conducting reviews, incorporating feedback, best practices
-* **Pair Programming** — Collaborative development experience
-* **TDD** — Test-Driven Development, code coverage, quality assurance
+* **Agile / Scrum** — sprints, planning, retrospectives, daily stand-ups
+* **Code Review** — conducting reviews, incorporating feedback, best practices
+* **Pair Programming** — collaborative development experience
+* **TDD** — test-Driven Development, code coverage, quality assurance
 
 
 ## Technologies & Tools
