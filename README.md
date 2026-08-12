@@ -2,7 +2,6 @@
 <p align="center">
  <a href="https://t.me/ВАШ_ТЕЛЕГРАМ"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
  <a href="https://linkedin.com/in/ВАШ_ПРОФИЛЬ"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://leetcode.com/ВАШ_ПРОФИЛЬ"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 <h1 align="center">
@@ -10,7 +9,7 @@
 </h1>
 
 <h3 align="center">
- I'm a Software Engineering Student & Developer | Java
+ I'm a Software Developer | Java
 </h3>
 
 <p align="center">
@@ -20,7 +19,7 @@ Specializing in the development of scalable, fault-tolerant, and high-performanc
 ---
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_GITHUB_USERNAME&layout=donut&theme=default" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexV44&layout=donut&theme=default" alt="Top Languages" />
 </p>
 
 ---
