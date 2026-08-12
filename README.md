@@ -22,7 +22,6 @@ Specializing in the development of scalable, fault-tolerant, and high-performanc
 
 ### Core Expertise (Advanced):
 * **Java Stack:** Core Java (8/11/17/21), Collections Framework, JVM Internals, Multithreading & Concurrency, Streams API, JDBC/JPA.
-* **C++ & Desktop:** Modern C++, Qt Framework, Dear ImGui, CMake build systems, OpenGL integrations.
 * **Backend & Databases:** PostgreSQL (Schema design, indexing, query optimization), RESTful API design.
 
 ### Intermediate & Tools:
@@ -33,28 +32,12 @@ Specializing in the development of scalable, fault-tolerant, and high-performanc
 
 ## Featured Projects
 
-### Nexus Terminal
-* **Tech Stack:** `C++`, `Dear ImGui`, `CMake`, `OpenGL`
-* Custom high-performance desktop trading terminal interface designed for crypto traders, featuring modular docking windows and real-time layout management.
-
-### Multi-Player Network Tetris
-* **Tech Stack:** `Java / C++`, `TCP Sockets`, `Wireshark`
-* Network-based multiplayer game utilizing custom TCP socket protocols for low-latency game state synchronization and client-server communication.
-
-### ShapeEditor
-* **Tech Stack:** `C++`, `Qt Framework`
-* Graphical desktop editor for vector graphics and geometry manipulation with intuitive UI components.
-
----
-
 ## Technologies & Tools
 
 <p align="left">
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
- <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
- <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
