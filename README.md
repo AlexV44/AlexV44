@@ -18,12 +18,6 @@ Specializing in the development of scalable, fault-tolerant, and high-performanc
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidilin&layout=donut&theme=nord" alt="Top Languages" />
-</p>
-
----
-
 ## Technical Skills
 
 ### Core Expertise (Advanced):
