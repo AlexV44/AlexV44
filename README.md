@@ -19,7 +19,7 @@ Specializing in the development of scalable, fault-tolerant, and high-performanc
 ---
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexV44&layout=donut&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidilin&layout=donut&theme=nord" alt="Top Languages" />
 </p>
 
 ---
