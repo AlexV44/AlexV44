@@ -1,7 +1,7 @@
 
 <p align="center">
- <a href="https://t.me/ВАШ_ТЕЛЕГРАМ"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
- <a href="https://linkedin.com/in/ВАШ_ПРОФИЛЬ"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="[https://t.me/ВАШ_ТЕЛЕГРАМ](https://t.me/alexVidilin)"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/alexei-vidilin-5106a4285"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <h1 align="center">
