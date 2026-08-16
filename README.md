@@ -18,6 +18,9 @@ Specializing in the development of scalable, fault-tolerant, and high-performanc
 
 ---
 
+## Featured Projects
+
+
 ## TECHNICAL SKILLS
 
 ### 🔴 Core Expertise (Advanced — 3+ years):
@@ -57,18 +60,4 @@ Specializing in the development of scalable, fault-tolerant, and high-performanc
 * **Code Review** — conducting reviews, incorporating feedback, best practices
 * **Pair Programming** — collaborative development experience
 * **TDD** — test-Driven Development, code coverage, quality assurance
-
-
-## Technologies & Tools
-
-<p align="left">
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-
-## Featured Projects
 
