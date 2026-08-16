@@ -18,7 +18,7 @@ Specializing in the development of scalable, fault-tolerant, and high-performanc
 
 ---
 
-## Featured Projects
+## PROJECTS
 
 
 ## TECHNICAL SKILLS
@@ -67,6 +67,5 @@ Specializing in the development of scalable, fault-tolerant, and high-performanc
 **Degree / Higher Education:**
 * **Belarusian State University of Informatics and Radioelectronics** — specialized education with a focus on system engineering, ergatic systems, information protection regulations, and software architecture.
 
-**Additional Learning & Specialized Training:**
+**Additional learning & Specialized training:**
 *  **[Java. Programming Methods (I. Blinov, A. Romanchik)](https://campus.epam.kz/static/news/Books/Ihar_Blinou.Java.Programming.Methods.2013.pdf)** — deep dive into object-oriented design, Java Core algorithms, design patterns, and multithreading fundamentals.
-* **Database Optimization & Architecture** — Hands-on coursework on query optimization, index tuning, and clean RESTful API design.
