@@ -61,3 +61,12 @@ Specializing in the development of scalable, fault-tolerant, and high-performanc
 * **Pair Programming** — collaborative development experience
 * **TDD** — test-Driven Development, code coverage, quality assurance
 
+
+## EDUCATION & CERTIFICATIONS
+
+**Degree / Higher Education:**
+* **Systems Analysis & Information Security** — Specialized education with a focus on system engineering, ergatic systems, information protection regulations, and software architecture.
+
+**Additional Learning & Specialized Training:**
+* **Java Backend Engineering & Microservices** — In-depth practical training in Spring Boot, Spring Data JPA, PostgreSQL, Docker, and Apache Kafka.
+* **Database Optimization & Architecture** — Hands-on coursework on query optimization, index tuning, and clean RESTful API design.
