@@ -65,8 +65,8 @@ Specializing in the development of scalable, fault-tolerant, and high-performanc
 ## EDUCATION & CERTIFICATIONS
 
 **Degree / Higher Education:**
-* **Systems Analysis & Information Security** — Specialized education with a focus on system engineering, ergatic systems, information protection regulations, and software architecture.
+* **Belarusian State University of Informatics and Radioelectronics** — specialized education with a focus on system engineering, ergatic systems, information protection regulations, and software architecture.
 
 **Additional Learning & Specialized Training:**
-* **Java Backend Engineering & Microservices** — In-depth practical training in Spring Boot, Spring Data JPA, PostgreSQL, Docker, and Apache Kafka.
+*  **[Java. Programming Methods (I. Blinov, A. Romanchik)](https://campus.epam.kz/static/news/Books/Ihar_Blinou.Java.Programming.Methods.2013.pdf)** — deep dive into object-oriented design, Java Core algorithms, design patterns, and multithreading fundamentals.
 * **Database Optimization & Architecture** — Hands-on coursework on query optimization, index tuning, and clean RESTful API design.
